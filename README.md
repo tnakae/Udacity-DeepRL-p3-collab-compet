@@ -10,7 +10,7 @@ teach basic knowledge and implementation techniques about Deep RL via online vid
 (mainly Youtube contents), and there are a lot of implementation tutorials
 in which each student has to implement various DeepRL algorithms.
 
-This repository of DeepRL source code is work of 3nd Project in this Nanodegree.
+This repository of DeepRL source code is work of 3rd Project in this Nanodegree.
 This is at the end of Lecture Part4, **Multi-Agent Reinforcement Learning**.
 The project goal is to implement agent algorithm to play tennis in the simulator
 using Unity ML-Agents([github repository](https://github.com/Unity-Technologies/ml-agents))
